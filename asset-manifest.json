@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/markeboverseas/static/css/main.4eb8039b.chunk.css",
+    "main.js": "/markeboverseas/static/js/main.13149df5.chunk.js",
+    "main.js.map": "/markeboverseas/static/js/main.13149df5.chunk.js.map",
+    "runtime-main.js": "/markeboverseas/static/js/runtime-main.6c4d1803.js",
+    "runtime-main.js.map": "/markeboverseas/static/js/runtime-main.6c4d1803.js.map",
+    "static/js/2.4540ad93.chunk.js": "/markeboverseas/static/js/2.4540ad93.chunk.js",
+    "static/js/2.4540ad93.chunk.js.map": "/markeboverseas/static/js/2.4540ad93.chunk.js.map",
+    "index.html": "/markeboverseas/index.html",
+    "precache-manifest.a55956c9c6cea65f34d78bf7e8f22e4b.js": "/markeboverseas/precache-manifest.a55956c9c6cea65f34d78bf7e8f22e4b.js",
+    "service-worker.js": "/markeboverseas/service-worker.js",
+    "static/css/main.4eb8039b.chunk.css.map": "/markeboverseas/static/css/main.4eb8039b.chunk.css.map",
+    "static/js/2.4540ad93.chunk.js.LICENSE.txt": "/markeboverseas/static/js/2.4540ad93.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/markeboverseas/static/media/Georgia.b905fa45.eot",
+    "static/media/Licenses.module.css": "/markeboverseas/static/media/licenses_2019 - 2020-2.ac372b23.jpg",
+    "static/media/Home.module.css": "/markeboverseas/static/media/header-bg.e4e98a50.jpg",
+    "static/media/HeaderStatic.module.css": "/markeboverseas/static/media/imgonline-com-ua-Transparent-backgr-koWNgmQvujzU12.f6cb19a3.png",
+    "static/media/ContactUs.module.css": "/markeboverseas/static/media/newsletter-bg.4320b2ba.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c4d1803.js",
+    "static/js/2.4540ad93.chunk.js",
+    "static/css/main.4eb8039b.chunk.css",
+    "static/js/main.13149df5.chunk.js"
+  ]
+}
